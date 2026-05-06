@@ -24,7 +24,7 @@ Route::get('/', function () {
         : view('login');
 })->name('index');
 
-Route::get('/show_register', [AuthenticationController::class, 'show_register'])->name('show_register');
+// Route::get('/show_register', [AuthenticationController::class, 'show_register'])->name('show_register');
 Route::post('/login', [AuthenticationController::class, 'login'])->name('login');
 Route::post('/register', [AuthenticationController::class, 'register'])->name('register');
 

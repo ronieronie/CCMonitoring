@@ -564,9 +564,9 @@
                                                 </button>
                                             </form>
 
-                                            <div class="mt-3">
-                                                Don't have an account? <a href="{{ route('show_register') }}" class="text-primary">Create an account</a>
-                                            </div>
+                                            <!-- <div class="mt-3">
+                                                Don't have an account? <a href="" class="text-primary">Create an account</a>
+                                            </div> -->
                                         </div>
 
                                     </div>
