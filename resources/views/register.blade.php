@@ -572,7 +572,7 @@
                                                         type="password" name="password_confirmation" id="password_confirmation" />
                                                 </div>
                                                 <button type="submit" class="btn btn-primary btn-block w-100">
-                                                    Sign In
+                                                    Sign Up
                                                 </button>
                                             </form>
 
