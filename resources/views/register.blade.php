@@ -578,7 +578,7 @@
 
                                             <div class="mt-3">
                                                 Already have an account? <a href="{{ route('index') }}"
-                                                    class="text-primary">Sign in</a>
+                                                    class="text-primary">Sign up</a>
                                             </div>
                                         </div>
 
