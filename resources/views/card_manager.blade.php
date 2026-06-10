@@ -96,7 +96,7 @@
                                 <option value="Visa">Visa</option>
                                 <option value="Mastercard">Mastercard</option>
                                 <option value="Amex">American Express</option>
-                                <option value="Amex">JCB</option>
+                                <option value="JCB">JCB</option>
                                 <option value="Other">Other</option>
                             </select>
                         </div>
@@ -165,7 +165,7 @@
                                 <option value="Visa">Visa</option>
                                 <option value="Mastercard">Mastercard</option>
                                 <option value="Amex">American Express</option>
-                                <option value="Amex">JCB</option>
+                                <option value="JCB">JCB</option>
                                 <option value="Other">Other</option>
                             </select>
                         </div>
